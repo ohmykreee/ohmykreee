@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Here comes a Kreee 🐺 !
+- My personal blog: [blog.ohmykreee.top](https://blog.ohmykreee.top)
+- Still a noob, learning many things.
 <!--
 **ohmykreee/ohmykreee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
