@@ -1,4 +1,4 @@
-### Here comes a Kreee 🐺 !
+### Here comes a Kreee 🐶 !
 - My personal blog: [blog.ohmykreee.top](https://blog.ohmykreee.top)
 - Still a noob, learning many things.
 <!--
