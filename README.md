@@ -1,5 +1,5 @@
 ### Here comes a Kreee 🐺 !
-- My personal blog: [blog.ohmykreee.top](https://blog.ohmykreee.top)
+- My personal blog: [blog.kre3.net](https://blog.kre3.net)
 - Still a noob, learning many things.
 
 <!--
