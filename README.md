@@ -7,7 +7,7 @@
 
 <details><summary><b>1. ⚠️ Legacy / Lost Key (DEPRECATED)</b></summary>
 
-> **Status:** **PRIVATE KEY / REVOKE KEY LOST**
+> **Status:** **PRIVATE KEY/REVOKE CERT LOST**
 
 > **Note:** This key was used for older commits. I no longer have access to the private key due to a hardware transition/data loss. I am keeping this public key on my profile solely to maintain the **"Verified"** status of historical work. **Do not use this key for encrypted communication.**
 
@@ -32,7 +32,7 @@ CgD7BQKNEPd1gxDv1dngyaI+GDxFeDWq5VwAY34I5jd8aQc=
 
 > **Status:** **Active (primary)**
 
-> Usage: My personal key, used for signing commits on my local workstation and my personal message. **Notice:** `ohmykreee.top` is my old domain and is deprecated.
+> Usage: My personal key, used for signing commits on my local workstation and for encrypted communication. **Notice:** `ohmykreee.top` is my old domain and is deprecated.
 
 ```plaintext
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -84,7 +84,7 @@ GOmpp+VO/aHktFi5R8TvB97M6k8ED3AKNOqIz8iodlsCb/F3xv83/BN0fG31EBbT
 
 > **Status:** **Active (secondly)**
 
-> Usage: Key stored in my home server `code-server`, mainly for signing Github commits, not for signing message.
+> Usage: Key stored in my home server `code-server`, mainly for signing Github commits, not for signing message/encrypted communication.
 
 ```plaintext
 -----BEGIN PGP PUBLIC KEY BLOCK-----
