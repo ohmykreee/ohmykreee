@@ -9,7 +9,7 @@
 
 > **Status:** **PRIVATE KEY/REVOKE CERT LOST**
 
-> **Note:** This key was used for older commits. I no longer have access to the private key due to a hardware transition/data loss. I am doing commits rebase to sign old commits with currently working key. **Do not use this key for encrypted communication.**
+> **Note:** This key was used for older commits. I no longer have access to the private key due to a hardware transition/data loss. I am doing commits rebase to sign old commits with currently working key (maybe or too lazy to do so). **Do not use this key for encrypted communication.**
 
 ```plaintext
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -32,7 +32,7 @@ CgD7BQKNEPd1gxDv1dngyaI+GDxFeDWq5VwAY34I5jd8aQc=
 
 > **Status:** **Active (primary)**
 
-> Usage: My personal key, used for signing commits on my local workstation and for encrypted communication. Corss-signed with `Remote Dev Key`.
+> Usage: My personal key, used for signing commits on my local workstation and for encrypted communication. Cross-signed with `Remote Dev Key`.
 
 ```plaintext
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -150,7 +150,7 @@ gcNBb2KNVheqckyuqN892Q==
 
 > **Status:** **Active (secondly)**
 
-> Usage: Key stored in my home server `code-server`, mainly for signing Github commits, not for signing message/encrypted communication. Corss-signed with `Primary Key`.
+> Usage: Key stored in my home server `code-server`, mainly for signing Github commits, not for signing message/encrypted communication. Cross-signed with `Primary Key`.
 
 ```plaintext
 -----BEGIN PGP PUBLIC KEY BLOCK-----
